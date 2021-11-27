@@ -36,15 +36,23 @@ public class SimpleAnimation : MonoBehaviour
                 m_ButtonPrototype = Resources.Load<GameObject>("AnimationButton");
             }
             float yOffset = 0.0f;
+            float xOffset = 0.0f;
             foreach (var clip in m_Clips)
             {
                 GameObject uiButton = Instantiate<GameObject>(m_ButtonPrototype, canvas.transform);
+                RectTransform xForm = uiButton.transform as RectTransform;
                 uiButton.name = clip.name;
                 uiButton.GetComponentInChildren<Text>().text = clip.name;
                 Vector3 pos = uiButton.transform.localPosition;
                 pos.y += yOffset;
+                pos.x += xOffset;
                 uiButton.transform.localPosition = pos;
-                yOffset -= 32.0f;
+                yOffset -= xForm.rect.height + 8.0f;
+                if (yOffset <= -Screen.height + 64.0f)
+                {
+                    yOffset = 0.0f;
+                    xOffset -= xForm.rect.width + 8.0f;
+                }
                 Button button = uiButton.GetComponent<Button>();
                 button.onClick.AddListener(delegate { OnAnimButton(clip.name); });
             }

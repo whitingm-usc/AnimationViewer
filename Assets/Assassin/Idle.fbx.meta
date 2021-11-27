@@ -1,14 +1,110 @@
 fileFormatVersion: 2
 guid: 64737f10effb0d3419a7964c62c85410
 ModelImporter:
-  serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: -3100369314251171874
-    second: Idle
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Assasin_Sword_Rig:Assassin_Joint_Chest
+    100002: Assasin_Sword_Rig:Assassin_Joint_Head
+    100004: Assasin_Sword_Rig:Assassin_Joint_Head_End
+    100006: Assasin_Sword_Rig:Assassin_Joint_Hip
+    100008: Assasin_Sword_Rig:Assassin_Joint_L_Ankle
+    100010: Assasin_Sword_Rig:Assassin_Joint_L_Arm
+    100012: Assasin_Sword_Rig:Assassin_Joint_L_Bicep
+    100014: Assasin_Sword_Rig:Assassin_Joint_L_Elbow
+    100016: Assasin_Sword_Rig:Assassin_Joint_L_Index1
+    100018: Assasin_Sword_Rig:Assassin_Joint_L_Index2
+    100020: Assasin_Sword_Rig:Assassin_Joint_L_Index3
+    100022: Assasin_Sword_Rig:Assassin_Joint_L_Knee
+    100024: Assasin_Sword_Rig:Assassin_Joint_L_Leg
+    100026: Assasin_Sword_Rig:Assassin_Joint_L_Shoulder
+    100028: Assasin_Sword_Rig:Assassin_Joint_L_Thumb1
+    100030: Assasin_Sword_Rig:Assassin_Joint_L_Thumb2
+    100032: Assasin_Sword_Rig:Assassin_Joint_L_Toe
+    100034: Assasin_Sword_Rig:Assassin_Joint_L_Wrist
+    100036: Assasin_Sword_Rig:Assassin_Joint_Mid_Chest
+    100038: Assasin_Sword_Rig:Assassin_Joint_Neck
+    100040: Assasin_Sword_Rig:Assassin_Joint_R_Ankle
+    100042: Assasin_Sword_Rig:Assassin_Joint_R_Arm
+    100044: Assasin_Sword_Rig:Assassin_Joint_R_Bicep
+    100046: Assasin_Sword_Rig:Assassin_Joint_R_Elbow
+    100048: Assasin_Sword_Rig:Assassin_Joint_R_Index1
+    100050: Assasin_Sword_Rig:Assassin_Joint_R_Index2
+    100052: Assasin_Sword_Rig:Assassin_Joint_R_Index3
+    100054: Assasin_Sword_Rig:Assassin_Joint_R_Knee
+    100056: Assasin_Sword_Rig:Assassin_Joint_R_Leg
+    100058: Assasin_Sword_Rig:Assassin_Joint_R_Shoulder
+    100060: Assasin_Sword_Rig:Assassin_Joint_R_Thumb1
+    100062: Assasin_Sword_Rig:Assassin_Joint_R_Thumb2
+    100064: Assasin_Sword_Rig:Assassin_Joint_R_Toe
+    100066: Assasin_Sword_Rig:Assassin_Joint_R_Wrist
+    100068: Assasin_Sword_Rig:Assassin_Joint_Root
+    100070: Assasin_Sword_Rig:Assassin_Joint_Waist
+    100072: Assasin_Sword_Rig:Assassin_mesh
+    100074: Assasin_Sword_Rig:Assassin_Skeleton
+    100076: Assasin_Sword_Rig:joint2
+    100078: Assasin_Sword_Rig:pasted__sword_independent_skeleton_end
+    100080: Assasin_Sword_Rig:Sword_independent_mesh
+    100082: Assasin_Sword_Rig:Sword_Independent_Skeleton
+    100084: Assasin_Sword_Rig:sword_joint
+    100086: Assasin_Sword_Rig:Sword_mesh
+    100088: //RootNode
+    400000: Assasin_Sword_Rig:Assassin_Joint_Chest
+    400002: Assasin_Sword_Rig:Assassin_Joint_Head
+    400004: Assasin_Sword_Rig:Assassin_Joint_Head_End
+    400006: Assasin_Sword_Rig:Assassin_Joint_Hip
+    400008: Assasin_Sword_Rig:Assassin_Joint_L_Ankle
+    400010: Assasin_Sword_Rig:Assassin_Joint_L_Arm
+    400012: Assasin_Sword_Rig:Assassin_Joint_L_Bicep
+    400014: Assasin_Sword_Rig:Assassin_Joint_L_Elbow
+    400016: Assasin_Sword_Rig:Assassin_Joint_L_Index1
+    400018: Assasin_Sword_Rig:Assassin_Joint_L_Index2
+    400020: Assasin_Sword_Rig:Assassin_Joint_L_Index3
+    400022: Assasin_Sword_Rig:Assassin_Joint_L_Knee
+    400024: Assasin_Sword_Rig:Assassin_Joint_L_Leg
+    400026: Assasin_Sword_Rig:Assassin_Joint_L_Shoulder
+    400028: Assasin_Sword_Rig:Assassin_Joint_L_Thumb1
+    400030: Assasin_Sword_Rig:Assassin_Joint_L_Thumb2
+    400032: Assasin_Sword_Rig:Assassin_Joint_L_Toe
+    400034: Assasin_Sword_Rig:Assassin_Joint_L_Wrist
+    400036: Assasin_Sword_Rig:Assassin_Joint_Mid_Chest
+    400038: Assasin_Sword_Rig:Assassin_Joint_Neck
+    400040: Assasin_Sword_Rig:Assassin_Joint_R_Ankle
+    400042: Assasin_Sword_Rig:Assassin_Joint_R_Arm
+    400044: Assasin_Sword_Rig:Assassin_Joint_R_Bicep
+    400046: Assasin_Sword_Rig:Assassin_Joint_R_Elbow
+    400048: Assasin_Sword_Rig:Assassin_Joint_R_Index1
+    400050: Assasin_Sword_Rig:Assassin_Joint_R_Index2
+    400052: Assasin_Sword_Rig:Assassin_Joint_R_Index3
+    400054: Assasin_Sword_Rig:Assassin_Joint_R_Knee
+    400056: Assasin_Sword_Rig:Assassin_Joint_R_Leg
+    400058: Assasin_Sword_Rig:Assassin_Joint_R_Shoulder
+    400060: Assasin_Sword_Rig:Assassin_Joint_R_Thumb1
+    400062: Assasin_Sword_Rig:Assassin_Joint_R_Thumb2
+    400064: Assasin_Sword_Rig:Assassin_Joint_R_Toe
+    400066: Assasin_Sword_Rig:Assassin_Joint_R_Wrist
+    400068: Assasin_Sword_Rig:Assassin_Joint_Root
+    400070: Assasin_Sword_Rig:Assassin_Joint_Waist
+    400072: Assasin_Sword_Rig:Assassin_mesh
+    400074: Assasin_Sword_Rig:Assassin_Skeleton
+    400076: Assasin_Sword_Rig:joint2
+    400078: Assasin_Sword_Rig:pasted__sword_independent_skeleton_end
+    400080: Assasin_Sword_Rig:Sword_independent_mesh
+    400082: Assasin_Sword_Rig:Sword_Independent_Skeleton
+    400084: Assasin_Sword_Rig:sword_joint
+    400086: Assasin_Sword_Rig:Sword_mesh
+    400088: //RootNode
+    2100000: Assasin_Sword_Rig_Assassin_shader
+    4300000: Assasin_Sword_Rig:Assassin_mesh
+    4300002: Assasin_Sword_Rig:Sword_mesh
+    4300004: Assasin_Sword_Rig:Sword_independent_mesh
+    7400000: Idle
+    9500000: //RootNode
+    13700000: Assasin_Sword_Rig:Assassin_mesh
+    13700002: Assasin_Sword_Rig:Sword_independent_mesh
+    13700004: Assasin_Sword_Rig:Sword_mesh
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -37,7 +133,6 @@ ModelImporter:
     - serializedVersion: 16
       name: Idle
       takeName: Idle
-      internalID: 0
       firstFrame: 500
       lastFrame: 529
       wrapMode: 0
@@ -70,28 +165,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -100,10 +192,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -113,16 +205,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

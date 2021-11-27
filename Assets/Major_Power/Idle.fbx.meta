@@ -1,14 +1,164 @@
 fileFormatVersion: 2
 guid: 17eda886b5750a549bd7d375db277afa
 ModelImporter:
-  serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: 1827226128182048838
-    second: Idle
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: REF:Ankle_L
+    100004: REF:Ankle_R
+    100006: REF:Arm_L
+    100008: REF:Arm_R
+    100010: REF:Chest
+    100012: REF:Eye_L
+    100014: REF:Eye_Lz
+    100016: REF:Eye_R
+    100018: REF:Eye_Rz
+    100020: REF:Foot_L
+    100022: REF:Foot_R
+    100024: REF:Forearm_L
+    100026: REF:Forearm_R
+    100028: REF:Hand_L
+    100030: REF:Hand_R
+    100032: REF:Head
+    100034: REF:Hips
+    100036: REF:Index1_L
+    100038: REF:Index1_R
+    100040: REF:Index2_L
+    100042: REF:Index2_R
+    100044: REF:Index3_L
+    100046: REF:Index3_R
+    100048: REF:Index_Lz
+    100050: REF:Index_Rz
+    100052: REF:Leg_L
+    100054: REF:Leg_R
+    100056: REF:mesh_body
+    100058: REF:mesh_head
+    100060: REF:Middle1_L
+    100062: REF:Middle1_R
+    100064: REF:Middle2_L
+    100066: REF:Middle2_R
+    100068: REF:Middle3_L
+    100070: REF:Middle3_R
+    100072: REF:Middle_Lz
+    100074: REF:Middle_Rz
+    100076: REF:Neck
+    100078: REF:Pinky1_L
+    100080: REF:Pinky1_R
+    100082: REF:Pinky2_L
+    100084: REF:Pinky2_R
+    100086: REF:Pinky3_L
+    100088: REF:Pinky3_R
+    100090: REF:Pinky_Lz
+    100092: REF:Pinky_Rz
+    100094: REF:Ring1_L
+    100096: REF:Ring1_R
+    100098: REF:Ring2_L
+    100100: REF:Ring2_R
+    100102: REF:Ring3_L
+    100104: REF:Ring3_R
+    100106: REF:Ring_Lz
+    100108: REF:Ring_Rz
+    100110: REF:Root
+    100112: REF:Shin_L
+    100114: REF:Shin_R
+    100116: REF:Shoulder_L
+    100118: REF:Shoulder_R
+    100120: REF:skeleton
+    100122: REF:Spine1
+    100124: REF:Spine2
+    100126: REF:Thumb1_L
+    100128: REF:Thumb1_R
+    100130: REF:Thumb2_L
+    100132: REF:Thumb2_R
+    100134: REF:Thumb3_L
+    100136: REF:Thumb3_R
+    100138: REF:Thumb_Lz
+    100140: REF:Thumb_Rz
+    100142: REF:Toe_Lz
+    100144: REF:Toe_Rz
+    400000: //RootNode
+    400002: REF:Ankle_L
+    400004: REF:Ankle_R
+    400006: REF:Arm_L
+    400008: REF:Arm_R
+    400010: REF:Chest
+    400012: REF:Eye_L
+    400014: REF:Eye_Lz
+    400016: REF:Eye_R
+    400018: REF:Eye_Rz
+    400020: REF:Foot_L
+    400022: REF:Foot_R
+    400024: REF:Forearm_L
+    400026: REF:Forearm_R
+    400028: REF:Hand_L
+    400030: REF:Hand_R
+    400032: REF:Head
+    400034: REF:Hips
+    400036: REF:Index1_L
+    400038: REF:Index1_R
+    400040: REF:Index2_L
+    400042: REF:Index2_R
+    400044: REF:Index3_L
+    400046: REF:Index3_R
+    400048: REF:Index_Lz
+    400050: REF:Index_Rz
+    400052: REF:Leg_L
+    400054: REF:Leg_R
+    400056: REF:mesh_body
+    400058: REF:mesh_head
+    400060: REF:Middle1_L
+    400062: REF:Middle1_R
+    400064: REF:Middle2_L
+    400066: REF:Middle2_R
+    400068: REF:Middle3_L
+    400070: REF:Middle3_R
+    400072: REF:Middle_Lz
+    400074: REF:Middle_Rz
+    400076: REF:Neck
+    400078: REF:Pinky1_L
+    400080: REF:Pinky1_R
+    400082: REF:Pinky2_L
+    400084: REF:Pinky2_R
+    400086: REF:Pinky3_L
+    400088: REF:Pinky3_R
+    400090: REF:Pinky_Lz
+    400092: REF:Pinky_Rz
+    400094: REF:Ring1_L
+    400096: REF:Ring1_R
+    400098: REF:Ring2_L
+    400100: REF:Ring2_R
+    400102: REF:Ring3_L
+    400104: REF:Ring3_R
+    400106: REF:Ring_Lz
+    400108: REF:Ring_Rz
+    400110: REF:Root
+    400112: REF:Shin_L
+    400114: REF:Shin_R
+    400116: REF:Shoulder_L
+    400118: REF:Shoulder_R
+    400120: REF:skeleton
+    400122: REF:Spine1
+    400124: REF:Spine2
+    400126: REF:Thumb1_L
+    400128: REF:Thumb1_R
+    400130: REF:Thumb2_L
+    400132: REF:Thumb2_R
+    400134: REF:Thumb3_L
+    400136: REF:Thumb3_R
+    400138: REF:Thumb_Lz
+    400140: REF:Thumb_Rz
+    400142: REF:Toe_Lz
+    400144: REF:Toe_Rz
+    2100000: REF_lambert2
+    4300000: REF:mesh_body
+    4300002: REF:mesh_head
+    7400000: Idle
+    9500000: //RootNode
+    13700000: REF:mesh_body
+    13700002: REF:mesh_head
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -37,7 +187,6 @@ ModelImporter:
     - serializedVersion: 16
       name: Idle
       takeName: Take 001
-      internalID: 0
       firstFrame: 1
       lastFrame: 24
       wrapMode: 0
@@ -70,28 +219,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.099999994
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -100,10 +246,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -113,16 +259,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 10
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
